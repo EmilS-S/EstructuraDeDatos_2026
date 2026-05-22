@@ -1,0 +1,14 @@
+C:\Users\emili\OneDrive\Documentos\Estructura de datos\Calculadora de poligonos\CalculadoraPoligonos\bin\Debug\net10.0\CalculadoraPoligonos.exe
+C:\Users\emili\OneDrive\Documentos\Estructura de datos\Calculadora de poligonos\CalculadoraPoligonos\bin\Debug\net10.0\CalculadoraPoligonos.deps.json
+C:\Users\emili\OneDrive\Documentos\Estructura de datos\Calculadora de poligonos\CalculadoraPoligonos\bin\Debug\net10.0\CalculadoraPoligonos.runtimeconfig.json
+C:\Users\emili\OneDrive\Documentos\Estructura de datos\Calculadora de poligonos\CalculadoraPoligonos\bin\Debug\net10.0\CalculadoraPoligonos.dll
+C:\Users\emili\OneDrive\Documentos\Estructura de datos\Calculadora de poligonos\CalculadoraPoligonos\bin\Debug\net10.0\CalculadoraPoligonos.pdb
+C:\Users\emili\OneDrive\Documentos\Estructura de datos\Calculadora de poligonos\CalculadoraPoligonos\obj\Debug\net10.0\CalculadoraPoligonos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emili\OneDrive\Documentos\Estructura de datos\Calculadora de poligonos\CalculadoraPoligonos\obj\Debug\net10.0\CalculadoraPoligonos.AssemblyInfoInputs.cache
+C:\Users\emili\OneDrive\Documentos\Estructura de datos\Calculadora de poligonos\CalculadoraPoligonos\obj\Debug\net10.0\CalculadoraPoligonos.AssemblyInfo.cs
+C:\Users\emili\OneDrive\Documentos\Estructura de datos\Calculadora de poligonos\CalculadoraPoligonos\obj\Debug\net10.0\CalculadoraPoligonos.csproj.CoreCompileInputs.cache
+C:\Users\emili\OneDrive\Documentos\Estructura de datos\Calculadora de poligonos\CalculadoraPoligonos\obj\Debug\net10.0\CalculadoraPoligonos.dll
+C:\Users\emili\OneDrive\Documentos\Estructura de datos\Calculadora de poligonos\CalculadoraPoligonos\obj\Debug\net10.0\refint\CalculadoraPoligonos.dll
+C:\Users\emili\OneDrive\Documentos\Estructura de datos\Calculadora de poligonos\CalculadoraPoligonos\obj\Debug\net10.0\CalculadoraPoligonos.pdb
+C:\Users\emili\OneDrive\Documentos\Estructura de datos\Calculadora de poligonos\CalculadoraPoligonos\obj\Debug\net10.0\CalculadoraPoligonos.genruntimeconfig.cache
+C:\Users\emili\OneDrive\Documentos\Estructura de datos\Calculadora de poligonos\CalculadoraPoligonos\obj\Debug\net10.0\ref\CalculadoraPoligonos.dll
