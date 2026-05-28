@@ -12,3 +12,4 @@ C:\Users\emili\OneDrive\Documentos\Estructura de datos\Calculadora de poligonos\
 C:\Users\emili\OneDrive\Documentos\Estructura de datos\Calculadora de poligonos\CalculadoraPoligonos\obj\Debug\net10.0\CalculadoraPoligonos.pdb
 C:\Users\emili\OneDrive\Documentos\Estructura de datos\Calculadora de poligonos\CalculadoraPoligonos\obj\Debug\net10.0\CalculadoraPoligonos.genruntimeconfig.cache
 C:\Users\emili\OneDrive\Documentos\Estructura de datos\Calculadora de poligonos\CalculadoraPoligonos\obj\Debug\net10.0\ref\CalculadoraPoligonos.dll
+C:\Users\emili\OneDrive\Documentos\Estructura de datos\Calculadora de poligonos\CalculadoraPoligonos\obj\Debug\net10.0\CalculadoraPoligonos.sourcelink.json
