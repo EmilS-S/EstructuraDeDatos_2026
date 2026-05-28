@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emili\\OneDrive\\Documentos\\Estructura de datos\\Calculadora de poligonos\\CalculadoraPoligonos\\StackVsHeap\\StackVsHeap.csproj",
-      "projectName": "StackVsHeap",
-      "projectPath": "C:\\Users\\emili\\OneDrive\\Documentos\\Estructura de datos\\Calculadora de poligonos\\CalculadoraPoligonos\\StackVsHeap\\StackVsHeap.csproj",
+      "projectUniqueName": "C:\\Users\\emili\\OneDrive\\Documentos\\Estructura de datos\\Calculadora de poligonos\\CalculadoraPoligonos\\Inventario\\Inventario.csproj",
+      "projectName": "Inventario",
+      "projectPath": "C:\\Users\\emili\\OneDrive\\Documentos\\Estructura de datos\\Calculadora de poligonos\\CalculadoraPoligonos\\Inventario\\Inventario.csproj",
       "packagesPath": "C:\\Users\\emili\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emili\\OneDrive\\Documentos\\Estructura de datos\\Calculadora de poligonos\\CalculadoraPoligonos\\StackVsHeap\\obj\\",
+      "outputPath": "C:\\Users\\emili\\OneDrive\\Documentos\\Estructura de datos\\Calculadora de poligonos\\CalculadoraPoligonos\\Inventario\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\emili\\AppData\\Roaming\\NuGet\\NuGet.Config"
