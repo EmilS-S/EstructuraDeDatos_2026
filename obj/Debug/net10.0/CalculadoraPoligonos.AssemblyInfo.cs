@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculadoraPoligonos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e818e6b832ece6717ed4bd3f28cccc03d72f86a1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ced62f995a22dba11fb30338cc0fd39360f73848")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculadoraPoligonos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculadoraPoligonos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
