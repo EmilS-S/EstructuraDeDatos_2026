@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alumno156\\Desktop\\Rep\\EstructuraDeDatos_2026\\Inventario\\Inventario.csproj": {}
+    "C:\\Users\\Alumno156\\Desktop\\Rep\\EstructuraDeDatos_2026\\Recursividad\\Recursividad.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alumno156\\Desktop\\Rep\\EstructuraDeDatos_2026\\Inventario\\Inventario.csproj": {
+    "C:\\Users\\Alumno156\\Desktop\\Rep\\EstructuraDeDatos_2026\\Recursividad\\Recursividad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alumno156\\Desktop\\Rep\\EstructuraDeDatos_2026\\Inventario\\Inventario.csproj",
-        "projectName": "Inventario",
-        "projectPath": "C:\\Users\\Alumno156\\Desktop\\Rep\\EstructuraDeDatos_2026\\Inventario\\Inventario.csproj",
+        "projectUniqueName": "C:\\Users\\Alumno156\\Desktop\\Rep\\EstructuraDeDatos_2026\\Recursividad\\Recursividad.csproj",
+        "projectName": "Recursividad",
+        "projectPath": "C:\\Users\\Alumno156\\Desktop\\Rep\\EstructuraDeDatos_2026\\Recursividad\\Recursividad.csproj",
         "packagesPath": "C:\\Users\\Alumno156\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alumno156\\Desktop\\Rep\\EstructuraDeDatos_2026\\Inventario\\obj\\",
+        "outputPath": "C:\\Users\\Alumno156\\Desktop\\Rep\\EstructuraDeDatos_2026\\Recursividad\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
