@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Recursividad")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f62e44ad455d31746f4b1284e81785685f6e3956")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6b9568a2990a2b15a426a5f29924740b004dc58")]
 [assembly: System.Reflection.AssemblyProductAttribute("Recursividad")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Recursividad")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
