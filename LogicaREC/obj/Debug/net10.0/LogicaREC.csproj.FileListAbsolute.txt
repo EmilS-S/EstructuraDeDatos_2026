@@ -1,0 +1,15 @@
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\LogicaREC\bin\Debug\net10.0\LogicaREC.exe
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\LogicaREC\bin\Debug\net10.0\LogicaREC.deps.json
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\LogicaREC\bin\Debug\net10.0\LogicaREC.runtimeconfig.json
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\LogicaREC\bin\Debug\net10.0\LogicaREC.dll
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\LogicaREC\bin\Debug\net10.0\LogicaREC.pdb
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\LogicaREC\obj\Debug\net10.0\LogicaREC.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\LogicaREC\obj\Debug\net10.0\LogicaREC.AssemblyInfoInputs.cache
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\LogicaREC\obj\Debug\net10.0\LogicaREC.AssemblyInfo.cs
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\LogicaREC\obj\Debug\net10.0\LogicaREC.csproj.CoreCompileInputs.cache
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\LogicaREC\obj\Debug\net10.0\LogicaREC.sourcelink.json
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\LogicaREC\obj\Debug\net10.0\LogicaREC.dll
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\LogicaREC\obj\Debug\net10.0\refint\LogicaREC.dll
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\LogicaREC\obj\Debug\net10.0\LogicaREC.pdb
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\LogicaREC\obj\Debug\net10.0\LogicaREC.genruntimeconfig.cache
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\LogicaREC\obj\Debug\net10.0\ref\LogicaREC.dll
