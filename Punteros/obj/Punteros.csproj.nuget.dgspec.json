@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\Punteros\\Punteros.csproj": {}
+    "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\Punteros\\Punteros.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\Punteros\\Punteros.csproj": {
+    "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\Punteros\\Punteros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\Punteros\\Punteros.csproj",
+        "projectUniqueName": "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\Punteros\\Punteros.csproj",
         "projectName": "Punteros",
-        "projectPath": "c:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\Punteros\\Punteros.csproj",
+        "projectPath": "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\Punteros\\Punteros.csproj",
         "packagesPath": "C:\\Users\\Alumno156\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\Punteros\\obj\\",
+        "outputPath": "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\Punteros\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
