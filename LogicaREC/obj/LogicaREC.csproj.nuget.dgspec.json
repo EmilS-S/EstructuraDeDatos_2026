@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\logicaREC\\LogicaREC.csproj": {}
+    "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\LogicaREC\\LogicaREC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\logicaREC\\LogicaREC.csproj": {
+    "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\LogicaREC\\LogicaREC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\logicaREC\\LogicaREC.csproj",
+        "projectUniqueName": "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\LogicaREC\\LogicaREC.csproj",
         "projectName": "LogicaREC",
-        "projectPath": "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\logicaREC\\LogicaREC.csproj",
+        "projectPath": "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\LogicaREC\\LogicaREC.csproj",
         "packagesPath": "C:\\Users\\Alumno156\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\logicaREC\\obj\\",
+        "outputPath": "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\LogicaREC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

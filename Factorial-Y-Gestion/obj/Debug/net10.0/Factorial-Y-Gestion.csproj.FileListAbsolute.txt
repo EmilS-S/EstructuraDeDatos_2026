@@ -1,0 +1,15 @@
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\Factorial-Y-Gestion\bin\Debug\net10.0\Factorial-Y-Gestion.exe
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\Factorial-Y-Gestion\bin\Debug\net10.0\Factorial-Y-Gestion.deps.json
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\Factorial-Y-Gestion\bin\Debug\net10.0\Factorial-Y-Gestion.runtimeconfig.json
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\Factorial-Y-Gestion\bin\Debug\net10.0\Factorial-Y-Gestion.dll
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\Factorial-Y-Gestion\bin\Debug\net10.0\Factorial-Y-Gestion.pdb
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\Factorial-Y-Gestion\obj\Debug\net10.0\Factorial-Y-Gestion.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\Factorial-Y-Gestion\obj\Debug\net10.0\Factorial-Y-Gestion.AssemblyInfoInputs.cache
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\Factorial-Y-Gestion\obj\Debug\net10.0\Factorial-Y-Gestion.AssemblyInfo.cs
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\Factorial-Y-Gestion\obj\Debug\net10.0\Factorial-Y-Gestion.csproj.CoreCompileInputs.cache
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\Factorial-Y-Gestion\obj\Debug\net10.0\Factorial-Y-Gestion.sourcelink.json
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\Factorial-Y-Gestion\obj\Debug\net10.0\Factorial-Y-Gestion.dll
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\Factorial-Y-Gestion\obj\Debug\net10.0\refint\Factorial-Y-Gestion.dll
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\Factorial-Y-Gestion\obj\Debug\net10.0\Factorial-Y-Gestion.pdb
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\Factorial-Y-Gestion\obj\Debug\net10.0\Factorial-Y-Gestion.genruntimeconfig.cache
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\Factorial-Y-Gestion\obj\Debug\net10.0\ref\Factorial-Y-Gestion.dll
