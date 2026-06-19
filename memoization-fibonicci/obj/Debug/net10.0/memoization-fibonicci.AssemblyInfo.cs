@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("memoization-fibonicci")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12529b3116c2a63f6a40799ca43e68af7482a925")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3455a79d81f2684d62107c9206fa6cfb8fb1fc14")]
 [assembly: System.Reflection.AssemblyProductAttribute("memoization-fibonicci")]
 [assembly: System.Reflection.AssemblyTitleAttribute("memoization-fibonicci")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
