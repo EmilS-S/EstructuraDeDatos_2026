@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\StructsPerso\\StructsPerso.csproj": {}
+    "c:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\Simulacro\\Simulacro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\StructsPerso\\StructsPerso.csproj": {
+    "c:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\Simulacro\\Simulacro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\StructsPerso\\StructsPerso.csproj",
-        "projectName": "StructsPerso",
-        "projectPath": "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\StructsPerso\\StructsPerso.csproj",
+        "projectUniqueName": "c:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\Simulacro\\Simulacro.csproj",
+        "projectName": "Simulacro",
+        "projectPath": "c:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\Simulacro\\Simulacro.csproj",
         "packagesPath": "C:\\Users\\Alumno156\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\StructsPerso\\obj\\",
+        "outputPath": "c:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\Simulacro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
