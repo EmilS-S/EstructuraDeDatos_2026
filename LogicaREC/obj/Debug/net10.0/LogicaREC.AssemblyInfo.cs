@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LogicaREC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3455a79d81f2684d62107c9206fa6cfb8fb1fc14")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7dc9a04d108959d5797673f8f7be38ef17fd240")]
 [assembly: System.Reflection.AssemblyProductAttribute("LogicaREC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LogicaREC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
