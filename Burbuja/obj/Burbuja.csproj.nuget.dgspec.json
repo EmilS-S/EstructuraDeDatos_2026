@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\AlgoritmoBusqueda\\AlgoritmoBusqueda.csproj": {}
+    "c:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\Burbuja\\Burbuja.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\AlgoritmoBusqueda\\AlgoritmoBusqueda.csproj": {
+    "c:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\Burbuja\\Burbuja.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\AlgoritmoBusqueda\\AlgoritmoBusqueda.csproj",
-        "projectName": "AlgoritmoBusqueda",
-        "projectPath": "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\AlgoritmoBusqueda\\AlgoritmoBusqueda.csproj",
+        "projectUniqueName": "c:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\Burbuja\\Burbuja.csproj",
+        "projectName": "Burbuja",
+        "projectPath": "c:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\Burbuja\\Burbuja.csproj",
         "packagesPath": "C:\\Users\\Alumno156\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\AlgoritmoBusqueda\\obj\\",
+        "outputPath": "c:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\Burbuja\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
