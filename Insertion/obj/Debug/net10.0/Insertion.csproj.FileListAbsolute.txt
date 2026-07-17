@@ -1,0 +1,15 @@
+C:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\Insertion\bin\Debug\net10.0\Insertion.exe
+C:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\Insertion\bin\Debug\net10.0\Insertion.deps.json
+C:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\Insertion\bin\Debug\net10.0\Insertion.runtimeconfig.json
+C:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\Insertion\bin\Debug\net10.0\Insertion.dll
+C:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\Insertion\bin\Debug\net10.0\Insertion.pdb
+C:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\Insertion\obj\Debug\net10.0\Insertion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\Insertion\obj\Debug\net10.0\Insertion.AssemblyInfoInputs.cache
+C:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\Insertion\obj\Debug\net10.0\Insertion.AssemblyInfo.cs
+C:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\Insertion\obj\Debug\net10.0\Insertion.csproj.CoreCompileInputs.cache
+C:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\Insertion\obj\Debug\net10.0\Insertion.sourcelink.json
+C:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\Insertion\obj\Debug\net10.0\Insertion.dll
+C:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\Insertion\obj\Debug\net10.0\refint\Insertion.dll
+C:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\Insertion\obj\Debug\net10.0\Insertion.pdb
+C:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\Insertion\obj\Debug\net10.0\Insertion.genruntimeconfig.cache
+C:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\Insertion\obj\Debug\net10.0\ref\Insertion.dll
