@@ -1,0 +1,15 @@
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\AlgoritmoBusqueda\bin\Debug\net10.0\AlgoritmoBusqueda.exe
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\AlgoritmoBusqueda\bin\Debug\net10.0\AlgoritmoBusqueda.deps.json
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\AlgoritmoBusqueda\bin\Debug\net10.0\AlgoritmoBusqueda.runtimeconfig.json
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\AlgoritmoBusqueda\bin\Debug\net10.0\AlgoritmoBusqueda.dll
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\AlgoritmoBusqueda\bin\Debug\net10.0\AlgoritmoBusqueda.pdb
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\AlgoritmoBusqueda\obj\Debug\net10.0\AlgoritmoBusqueda.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\AlgoritmoBusqueda\obj\Debug\net10.0\AlgoritmoBusqueda.AssemblyInfoInputs.cache
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\AlgoritmoBusqueda\obj\Debug\net10.0\AlgoritmoBusqueda.AssemblyInfo.cs
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\AlgoritmoBusqueda\obj\Debug\net10.0\AlgoritmoBusqueda.csproj.CoreCompileInputs.cache
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\AlgoritmoBusqueda\obj\Debug\net10.0\AlgoritmoBusqueda.sourcelink.json
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\AlgoritmoBusqueda\obj\Debug\net10.0\AlgoritmoBusqueda.dll
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\AlgoritmoBusqueda\obj\Debug\net10.0\refint\AlgoritmoBusqueda.dll
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\AlgoritmoBusqueda\obj\Debug\net10.0\AlgoritmoBusqueda.pdb
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\AlgoritmoBusqueda\obj\Debug\net10.0\AlgoritmoBusqueda.genruntimeconfig.cache
+c:\Users\Alumno156\Desktop\EstructuraDeDatos_2026\AlgoritmoBusqueda\obj\Debug\net10.0\ref\AlgoritmoBusqueda.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\Simulacro\\Simulacro.csproj": {}
+    "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\Simulacro\\Simulacro.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\Simulacro\\Simulacro.csproj": {
+    "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\Simulacro\\Simulacro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\Simulacro\\Simulacro.csproj",
+        "projectUniqueName": "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\Simulacro\\Simulacro.csproj",
         "projectName": "Simulacro",
-        "projectPath": "c:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\Simulacro\\Simulacro.csproj",
+        "projectPath": "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\Simulacro\\Simulacro.csproj",
         "packagesPath": "C:\\Users\\Alumno156\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\Simulacro\\obj\\",
+        "outputPath": "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\Simulacro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
