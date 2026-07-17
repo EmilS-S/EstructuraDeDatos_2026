@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Program
+class Alg
 {
     static int BusquedaLineal(int[] arr, int objetivo, out int iteraciones)
     {

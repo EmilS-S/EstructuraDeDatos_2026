@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\AlgoritmoBusqueda\\AlgoritmoBusqueda.csproj": {}
+    "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\AlgoritmoBusqueda\\AlgoritmoBusqueda.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\AlgoritmoBusqueda\\AlgoritmoBusqueda.csproj": {
+    "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\AlgoritmoBusqueda\\AlgoritmoBusqueda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\AlgoritmoBusqueda\\AlgoritmoBusqueda.csproj",
+        "projectUniqueName": "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\AlgoritmoBusqueda\\AlgoritmoBusqueda.csproj",
         "projectName": "AlgoritmoBusqueda",
-        "projectPath": "c:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\AlgoritmoBusqueda\\AlgoritmoBusqueda.csproj",
+        "projectPath": "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\AlgoritmoBusqueda\\AlgoritmoBusqueda.csproj",
         "packagesPath": "C:\\Users\\Alumno156\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\AlgoritmoBusqueda\\obj\\",
+        "outputPath": "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\AlgoritmoBusqueda\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
