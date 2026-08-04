@@ -8,32 +8,24 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Alumno156\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\emili\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\StructsPerso\\StructsPerso.csproj",
+      "projectUniqueName": "C:\\Users\\emili\\Desktop\\EstructuraDeDatos_2026\\StructsPerso\\StructsPerso.csproj",
       "projectName": "StructsPerso",
-      "projectPath": "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\StructsPerso\\StructsPerso.csproj",
-      "packagesPath": "C:\\Users\\Alumno156\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\StructsPerso\\obj\\",
+      "projectPath": "C:\\Users\\emili\\Desktop\\EstructuraDeDatos_2026\\StructsPerso\\StructsPerso.csproj",
+      "packagesPath": "C:\\Users\\emili\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\emili\\Desktop\\EstructuraDeDatos_2026\\StructsPerso\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Alumno156\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\emili\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

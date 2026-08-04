@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\Recursividad\\Recursividad.csproj": {}
+    "C:\\Users\\emili\\Desktop\\EstructuraDeDatos_2026\\Recursividad\\Recursividad.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\Recursividad\\Recursividad.csproj": {
+    "C:\\Users\\emili\\Desktop\\EstructuraDeDatos_2026\\Recursividad\\Recursividad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\Recursividad\\Recursividad.csproj",
+        "projectUniqueName": "C:\\Users\\emili\\Desktop\\EstructuraDeDatos_2026\\Recursividad\\Recursividad.csproj",
         "projectName": "Recursividad",
-        "projectPath": "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\Recursividad\\Recursividad.csproj",
-        "packagesPath": "C:\\Users\\Alumno156\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alumno156\\Desktop\\EstructuraDeDatos_2026\\Recursividad\\obj\\",
+        "projectPath": "C:\\Users\\emili\\Desktop\\EstructuraDeDatos_2026\\Recursividad\\Recursividad.csproj",
+        "packagesPath": "C:\\Users\\emili\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\emili\\Desktop\\EstructuraDeDatos_2026\\Recursividad\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Alumno156\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\emili\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
